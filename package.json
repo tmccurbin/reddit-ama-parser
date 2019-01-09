@@ -1,7 +1,7 @@
 {
-  "name": "cis197-chrome-extension",
+  "name": "Reddit AMA Chrome Extension",
   "version": "0.0.0",
-  "description": "CIS 197 Chrome extension homework assignment.",
+  "description": "Adapted from CIS 197 Chrome extension homework assignment.",
   "main": "Gruntfile.js",
   "directories": {
     "test": "test"
